@@ -7,9 +7,10 @@
     自然，做后端的，Docker、Kubernetes 不能不会。<br/>
     我的博客主页：<a href="https://nnnewb.github.io/blog/">nnnewb.github.io/blog</a><br/>
     <br/>
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=nnnewb&show_icons=true"><br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnnewb&layout=compact"><br/>
+    <!--     <img src="https://github-readme-stats.vercel.app/api?username=nnnewb&show_icons=true"><br/> -->
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnnewb&layout=compact&hide=scss,html,vim script&langs_count=6"><br/>
+    </a>
 </p>
 
 <!--
