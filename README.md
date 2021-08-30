@@ -9,7 +9,7 @@
     <br/>
     <!--     <img src="https://github-readme-stats.vercel.app/api?username=nnnewb&show_icons=true"><br/> -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnnewb&layout=compact&hide=scss,html,vim script&langs_count=6"><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnnewb&layout=compact&hide=scss,html,vim script&exclude_repo=tree-sitter-protobuf,blog&langs_count=6"><br/>
     </a>
 </p>
 
