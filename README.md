@@ -10,6 +10,7 @@
     <!--     <img src="https://github-readme-stats.vercel.app/api?username=nnnewb&show_icons=true"><br/> -->
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=nnnewb&show_icons=true"><br/>
+        <img src="https://github-profile-trophy.vercel.app/?username=nnnewb&column=3&row=2&margin-w=15&margin-h=15"><br/>
     </a>
 </p>
 
